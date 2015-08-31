@@ -34,6 +34,7 @@
     <context-param>
     <param-name>magnolia.initialization.file</param-name>
     <param-value>
+    WEB-INF/config/dev/magnolia.properties,
     WEB-INF/config/${env/INSTANCE_TYPE}/${env/DB_TYPE}/magnolia.properties,
     WEB-INF/config/fhs/magnolia.properties,
     WEB-INF/config/default/magnolia.properties
