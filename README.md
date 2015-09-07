@@ -12,7 +12,7 @@ This bundle implements common practices used in a cloud environment. It provides
 
 ## Usage
 
-Configure your web application to use this bundle in the `dependencies` section of the maven pom descriptor:
+Create a Magnolia project using the maven archetype and configure your web application to use this bundle in the `dependencies` section of the maven pom descriptor:
 ```
     <dependency>
       <groupId>info.magnolia.cloud.bundle</groupId>
