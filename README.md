@@ -1,5 +1,5 @@
-# Magnolia Cloud Bundle
-A Magnolia bundle ready to use for cloud deployment. 
+# Magnolia Cloud Bundle Webapp
+A Magnolia webapp ready to use for cloud deployment. 
 
 ## Features
 
