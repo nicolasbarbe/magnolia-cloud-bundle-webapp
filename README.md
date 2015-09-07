@@ -7,8 +7,8 @@ This bundle implements common practices used in a cloud environment. It provides
 - Configuration through environment variables
 - Compliant with [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 - Single artecfact deployment
-- Healthcheck endpoint for easy monitoring
-- Subscriber endpoint for easy author configuration
+- Healthcheck endpoint for easy monitoring (using https://github.com/nicolasbarbe/magnolia-healthcheck)
+- Subscriber endpoint for easy author configuration (using https://github.com/nicolasbarbe/magnolia-subscriber-rest-endpoint)
 
 ## Usage
 
