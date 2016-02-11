@@ -4,8 +4,7 @@
   <parent>
     <groupId>info.magnolia.bundle</groupId>
     <artifactId>magnolia-bundle-parent</artifactId>
-    <version>5.4.1</version>
-    <relativePath>../pom.xml</relativePath>
+    <version>5.4.4</version>
   </parent>
   <groupId>info.magnolia.cloud.bundle</groupId>
   <artifactId>magnolia-cloud-bundle-webapp</artifactId>

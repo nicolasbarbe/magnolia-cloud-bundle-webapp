@@ -58,7 +58,7 @@ The default `magnolia.properties` follows the recommendations of the [Filesystem
 
 |property  | location |
 | ------------- | ------------- |
-| magnolia.resources.dir  | /var/opt/magnolia  |
+| magnolia.resources.dir  | /var/lib/magnolia/resources  |
 | magnolia.cache.startdir | /var/cache/magnolia |
 | magnolia.upload.tmpdir | /var/tmp/magnolia/uploaded |
 | magnolia.exchange.history | /var/tmp/magnolia/history |
