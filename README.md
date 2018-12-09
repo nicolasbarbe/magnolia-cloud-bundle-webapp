@@ -1,6 +1,8 @@
 # Magnolia Cloud Bundle Webapp
 A Magnolia webapp ready to use for cloud deployment. 
 
+[![Build Status](https://travis-ci.org/magnolia-sre/magnolia-docker.svg?branch=master)](https://travis-ci.org/magnolia-sre/magnolia-docker)
+
 ## Features
 
 This bundle implements common practices used in a cloud environment. It provides the following features:
